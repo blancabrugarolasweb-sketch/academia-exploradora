@@ -1,7 +1,14 @@
-# Academia de Exploradoras — MVP v0.9
+# Academia de Exploradoras — MVP v0.10
 
-## Cambios
-- Pantalla de inicio con **imagen propia para la tarjeta de Jardín Secreto**.
-- Resto de mundos con **ilustraciones en gris**, estilo mundo bloqueado / cromo no conseguido.
-- Quitado el **título grande** de la portada y dejado un encabezado más limpio.
-- Recuperadas las **fotos de fondo** en la pantalla de **jugar** y en la de **álbum de cromos**.
+Juego educativo de exploración para Martina.
+
+## Estado
+
+- Código base en HTML/CSS/JS.
+- Progreso guardado con `localStorage` en el navegador.
+- Mundo activo: Jardín Secreto.
+- Premio del cofre botánico: **Misión Vivero** — visitar un vivero, elegir una flor, ponerle nombre y registrarla en el cuaderno de exploradora.
+
+## Importante
+
+El juego necesita la carpeta `assets/` en la raíz del repo. Si una imagen no está disponible, la interfaz debe usar un fallback visual para que la experiencia no se rompa.
