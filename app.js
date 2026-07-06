@@ -1,5 +1,5 @@
 const app = document.getElementById("app");
-const STORAGE_KEY = "martina_exploradora_state_v10";
+const STORAGE_KEY = "martina_exploradora_state_v11";
 const AUTH_KEY = "martina_exploradora_auth_v10";
 const ACCESS_PASSWORD = "martina.v";
 
